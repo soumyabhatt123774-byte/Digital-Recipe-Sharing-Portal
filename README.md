@@ -1,3 +1,4 @@
+HOSTING LINK: http://localhost/phpmyadmin/
 # Digital-Recipe-Sharing-Portal- A web application for sharing, discovering, and managing recipes digitally.
 1. Project Description
 2. How to run it
